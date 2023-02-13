@@ -1,8 +1,8 @@
-var jour ="";
+var jour ="lundi";
 if (jour!="samedi" || jour!="dimanche") {
-  console.log("weekday");
+  console.log("weekend");
   
 }
 else {
-  console.log ("weekend ");
+  console.log ("weekday");
 }
