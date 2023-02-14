@@ -1,5 +1,5 @@
-var jour ="lundi";
-if (jour!="samedi" || jour!="dimanche") {
+var day ="lundi";
+if (day==="samedi" || day === "dimanche") {
   console.log("weekend");
   
 }
